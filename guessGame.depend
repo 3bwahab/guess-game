@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1677554651 source:f:\codeforces\guessgame\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1677555885 source:f:\games\guessgame\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1688317916 source:f:\how to programing with c++\games\guessgame\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
