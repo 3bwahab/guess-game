@@ -8,6 +8,20 @@ Welcome to the Guess the Number Game in C++! This simple console-based game chal
 - [How to Play](#how-to-play)
 - [Installation](#installation)
 
+- ## Features
+
+1. **Random Number Generation:**
+   - The game generates a random number between 0 and 1000 for players to guess.
+
+2. **Player Input:**
+   - Players can input their guesses and receive feedback on whether the guess is too high, too low, or correct.
+
+3. **Game Loop:**
+   - The game provides a loop allowing players to make multiple guesses until they correctly guess the number.
+
+4. **Scoring System:**
+   - Track the number of attempts it takes for the player to correctly guess the number.
+
 - ## How to Play
 
 1. **Start the Game:**
@@ -29,4 +43,4 @@ Welcome to the Guess the Number Game in C++! This simple console-based game chal
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/guess-number-game-cpp.git
+   git clone https://github.com/3bwahab/guess-the-number-game-.git
