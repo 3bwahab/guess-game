@@ -47,5 +47,5 @@ Welcome to the Guess the Number Game in C++! This simple console-based game chal
    git clone https://github.com/3bwahab/guess-the-number-game-.git
 
 ## Run The Game
-Compile the C++ source code using your preferred compiler.
-Run the executable to start the Guess the Number Game.
+Compile the C++ source code using your preferred compiler and
+run the executable to start the Guess the Number Game.
